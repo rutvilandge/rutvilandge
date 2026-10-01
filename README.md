@@ -1,7 +1,5 @@
 # Hey, I'm Rutvi! 👋
 
-### 💻 Full-Stack Developer • 🤖 AI Enthusiast • 📊 Data Science Explorer
-
 I'm a **Computer Engineering student** passionate about building modern, scalable web applications and exploring the possibilities of Artificial Intelligence. I enjoy transforming ideas into real-world products that combine clean design, efficient code, and meaningful user experiences.
 
 Whether I'm developing full-stack applications, experimenting with AI, or exploring data, I'm always excited to learn, build, and grow as a developer.
