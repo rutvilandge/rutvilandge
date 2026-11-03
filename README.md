@@ -1,8 +1,8 @@
-div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=FFD6E8,FFB6D5,F8A5C8&text=Rutvi%20Landge&fontColor=7A1F4B&fontSize=52&fontAlignY=40&desc=Full%20Stack%20Computer%20Engineering%20Student&descSize=20&descAlignY=62" width="100%"/>
 
-<img src="https://github.com/rutvilandge.png?size=200" width="150" alt="Rutvi Landge"/>
+<img src="./pfp.png" width="170" alt="Rutvi Landge"/>
 
 <br/><br/>
 
@@ -90,32 +90,26 @@ I am a Full Stack Computer Engineering student who builds AI-powered web applica
 
 All projects are still in progress.
 
-<div align="center">
 <table>
-<tr><td width="50%" align="center"><a href="https://github.com/rutvilandge/echonote"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rutvilandge&repo=echonote&bg_color=FFF0F6&title_color=C2255C&text_color=7B3F5C&icon_color=F06595&border_color=F8A5C8&border_radius=16" alt="echonote" width="100%"/></a></td><td width="50%" align="center"><a href="https://github.com/rutvilandge/medintel-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rutvilandge&repo=medintel-ai&bg_color=FFF0F6&title_color=C2255C&text_color=7B3F5C&icon_color=F06595&border_color=F8A5C8&border_radius=16" alt="medintel-ai" width="100%"/></a></td></tr>
-<tr><td width="50%" align="center"><a href="https://github.com/rutvilandge/codexa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rutvilandge&repo=codexa&bg_color=FFF0F6&title_color=C2255C&text_color=7B3F5C&icon_color=F06595&border_color=F8A5C8&border_radius=16" alt="codexa" width="100%"/></a></td><td width="50%" align="center"><a href="https://github.com/rutvilandge/VeriLens"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rutvilandge&repo=VeriLens&bg_color=FFF0F6&title_color=C2255C&text_color=7B3F5C&icon_color=F06595&border_color=F8A5C8&border_radius=16" alt="VeriLens" width="100%"/></a></td></tr>
-<tr><td width="50%" align="center"><a href="https://github.com/rutvilandge/nexus"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rutvilandge&repo=nexus&bg_color=FFF0F6&title_color=C2255C&text_color=7B3F5C&icon_color=F06595&border_color=F8A5C8&border_radius=16" alt="nexus" width="100%"/></a></td><td width="50%" align="center"><a href="https://github.com/rutvilandge/Quantara"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rutvilandge&repo=Quantara&bg_color=FFF0F6&title_color=C2255C&text_color=7B3F5C&icon_color=F06595&border_color=F8A5C8&border_radius=16" alt="Quantara" width="100%"/></a></td></tr>
-<tr><td width="50%" align="center"><a href="https://github.com/rutvilandge/GitNova"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rutvilandge&repo=GitNova&bg_color=FFF0F6&title_color=C2255C&text_color=7B3F5C&icon_color=F06595&border_color=F8A5C8&border_radius=16" alt="GitNova" width="100%"/></a></td><td width="50%" align="center"><a href="https://github.com/rutvilandge/SYNAPTRA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rutvilandge&repo=SYNAPTRA&bg_color=FFF0F6&title_color=C2255C&text_color=7B3F5C&icon_color=F06595&border_color=F8A5C8&border_radius=16" alt="SYNAPTRA" width="100%"/></a></td></tr>
-<tr><td width="50%" align="center"><a href="https://github.com/rutvilandge/AETHERIS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rutvilandge&repo=AETHERIS&bg_color=FFF0F6&title_color=C2255C&text_color=7B3F5C&icon_color=F06595&border_color=F8A5C8&border_radius=16" alt="AETHERIS" width="100%"/></a></td><td width="50%"></td></tr>
+<tr><td width="50%" valign="top"><h3><a href="https://github.com/rutvilandge/echonote">EchoNote</a></h3><p>AI meeting intelligence platform. Records meetings, generates summaries and action items, and lets you chat with past meetings using RAG search.</p><p><img src="https://img.shields.io/github/languages/top/rutvilandge/echonote?style=flat-square&label=Language&labelColor=F06595&color=F8BBD0" alt="language"/> <img src="https://img.shields.io/badge/Status-In_progress-F8BBD0?style=flat-square&labelColor=F06595" alt="status"/></p></td><td width="50%" valign="top"><h3><a href="https://github.com/rutvilandge/medintel-ai">MedIntel AI</a></h3><p>Full-stack AI healthcare management system with patient records, medical report analysis, disease prediction and an intelligent medical assistant.</p><p><img src="https://img.shields.io/github/languages/top/rutvilandge/medintel-ai?style=flat-square&label=Language&labelColor=F06595&color=F8BBD0" alt="language"/> <img src="https://img.shields.io/badge/Status-In_progress-F8BBD0?style=flat-square&labelColor=F06595" alt="status"/></p></td></tr>
+<tr><td width="50%" valign="top"><h3><a href="https://github.com/rutvilandge/codexa">Codexa</a></h3><p>AI-powered cloud coding workspace with an in-browser editor, project management, AI coding assistance and authentication.</p><p><img src="https://img.shields.io/github/languages/top/rutvilandge/codexa?style=flat-square&label=Language&labelColor=F06595&color=F8BBD0" alt="language"/> <img src="https://img.shields.io/badge/Status-In_progress-F8BBD0?style=flat-square&labelColor=F06595" alt="status"/></p></td><td width="50%" valign="top"><h3><a href="https://github.com/rutvilandge/VeriLens">VeriLens</a></h3><p>Multimodal AI authenticity and evidence platform that analyzes text, images and sources and produces explainable insights.</p><p><img src="https://img.shields.io/github/languages/top/rutvilandge/VeriLens?style=flat-square&label=Language&labelColor=F06595&color=F8BBD0" alt="language"/> <img src="https://img.shields.io/badge/Status-In_progress-F8BBD0?style=flat-square&labelColor=F06595" alt="status"/></p></td></tr>
+<tr><td width="50%" valign="top"><h3><a href="https://github.com/rutvilandge/nexus">Nexus</a></h3><p>Voice-enabled personal AI assistant that uses agentic orchestration to turn natural language commands into automated workflows.</p><p><img src="https://img.shields.io/github/languages/top/rutvilandge/nexus?style=flat-square&label=Language&labelColor=F06595&color=F8BBD0" alt="language"/> <img src="https://img.shields.io/badge/Status-In_progress-F8BBD0?style=flat-square&labelColor=F06595" alt="status"/></p></td><td width="50%" valign="top"><h3><a href="https://github.com/rutvilandge/Quantara">Quantara</a></h3><p>Project in progress.</p><p><img src="https://img.shields.io/github/languages/top/rutvilandge/Quantara?style=flat-square&label=Language&labelColor=F06595&color=F8BBD0" alt="language"/> <img src="https://img.shields.io/badge/Status-In_progress-F8BBD0?style=flat-square&labelColor=F06595" alt="status"/></p></td></tr>
+<tr><td width="50%" valign="top"><h3><a href="https://github.com/rutvilandge/GitNova">GitNova</a></h3><p>Project in progress.</p><p><img src="https://img.shields.io/github/languages/top/rutvilandge/GitNova?style=flat-square&label=Language&labelColor=F06595&color=F8BBD0" alt="language"/> <img src="https://img.shields.io/badge/Status-In_progress-F8BBD0?style=flat-square&labelColor=F06595" alt="status"/></p></td><td width="50%" valign="top"><h3><a href="https://github.com/rutvilandge/SYNAPTRA">SYNAPTRA</a></h3><p>Project in progress.</p><p><img src="https://img.shields.io/github/languages/top/rutvilandge/SYNAPTRA?style=flat-square&label=Language&labelColor=F06595&color=F8BBD0" alt="language"/> <img src="https://img.shields.io/badge/Status-In_progress-F8BBD0?style=flat-square&labelColor=F06595" alt="status"/></p></td></tr>
+<tr><td width="50%" valign="top"><h3><a href="https://github.com/rutvilandge/AETHERIS">AETHERIS</a></h3><p>Project in progress.</p><p><img src="https://img.shields.io/github/languages/top/rutvilandge/AETHERIS?style=flat-square&label=Language&labelColor=F06595&color=F8BBD0" alt="language"/> <img src="https://img.shields.io/badge/Status-In_progress-F8BBD0?style=flat-square&labelColor=F06595" alt="status"/></p></td><td width="50%"></td></tr>
 </table>
-</div>
 
 ---
 
 ## GitHub Stats
 
 <div align="center">
-<table>
-<tr>
-<td align="center" width="50%"><img src="https://quickchart.io/chart?bkg=%23FFF0F6&w=500&h=420&c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Frontend%22%2C%22Backend%22%2C%22Databases%22%2C%22AI%20%2F%20RAG%22%2C%22DSA%22%2C%22Auth%20%26%20Security%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B80%2C75%2C75%2C78%2C72%2C70%5D%2C%22backgroundColor%22%3A%22rgba%28248%2C165%2C200%2C0.45%29%22%2C%22borderColor%22%3A%22%23D6336C%22%2C%22pointBackgroundColor%22%3A%22%23D6336C%22%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Skill%20Radar%22%2C%22fontColor%22%3A%22%23C2255C%22%2C%22fontSize%22%3A18%7D%2C%22scale%22%3A%7B%22ticks%22%3A%7B%22display%22%3Afalse%2C%22min%22%3A0%2C%22max%22%3A100%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22%23F3C6DA%22%7D%2C%22angleLines%22%3A%7B%22color%22%3A%22%23F3C6DA%22%7D%2C%22pointLabels%22%3A%7B%22fontColor%22%3A%22%237B3F5C%22%2C%22fontSize%22%3A14%7D%7D%7D%7D" alt="Skill Radar" width="100%"/></td>
-<td align="center" width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutvilandge&layout=donut&hide_border=true&bg_color=FFF0F6&title_color=C2255C&text_color=7B3F5C&title=Repository%20Languages" alt="Repository Languages" width="100%"/></td>
-</tr>
-</table>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rutvilandge&show_icons=true&hide_border=true&bg_color=FFF0F6&title_color=C2255C&icon_color=F06595&text_color=7B3F5C&count_private=true" alt="GitHub Stats"/>
-<img height="180" src="https://streak-stats.demolab.com?user=rutvilandge&background=FFF0F6&border=F8A5C8&ring=F06595&fire=F06595&currStreakNum=7B3F5C&sideNums=7B3F5C&currStreakLabel=C2255C&sideLabels=7B3F5C&dates=7B3F5C&stroke=F8A5C8&hide_border=false" alt="Contribution Streak"/>
+<img src="https://quickchart.io/chart?bkg=%23FFF0F6&w=500&h=420&c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Frontend%22%2C%22Backend%22%2C%22Databases%22%2C%22AI%20%2F%20RAG%22%2C%22DSA%22%2C%22Auth%20%26%20Security%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B80%2C75%2C75%2C78%2C72%2C70%5D%2C%22backgroundColor%22%3A%22rgba%28248%2C165%2C200%2C0.45%29%22%2C%22borderColor%22%3A%22%23D6336C%22%2C%22pointBackgroundColor%22%3A%22%23D6336C%22%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Skill%20Radar%22%2C%22fontColor%22%3A%22%23C2255C%22%2C%22fontSize%22%3A18%7D%2C%22scale%22%3A%7B%22ticks%22%3A%7B%22display%22%3Afalse%2C%22min%22%3A0%2C%22max%22%3A100%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22%23F3C6DA%22%7D%2C%22angleLines%22%3A%7B%22color%22%3A%22%23F3C6DA%22%7D%2C%22pointLabels%22%3A%7B%22fontColor%22%3A%22%237B3F5C%22%2C%22fontSize%22%3A14%7D%7D%7D%7D" alt="Skill Radar" width="480"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rutvilandge&bg_color=FFF0F6&color=C2255C&line=F06595&point=7B3F5C&area=true&area_color=F8BBD0&hide_border=true&title=Contribution%20Graph" width="100%" alt="Contribution Graph"/>
+<img src="https://streak-stats.demolab.com?user=rutvilandge&background=FFF0F6&border=F8A5C8&ring=F06595&fire=F06595&currStreakNum=7B3F5C&sideNums=7B3F5C&currStreakLabel=C2255C&sideLabels=7B3F5C&dates=7B3F5C&stroke=F8A5C8&hide_border=false" alt="Contribution Streak" width="90%"/>
+
+<img src="https://ghchart.rshah.org/F06595/rutvilandge" alt="Contribution Calendar" width="90%"/>
+
 </div>
 
 ---
@@ -150,5 +144,4 @@ All projects are still in progress.
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=FFD6E8,FFB6D5,F8A5C8&section=footer" width="100%"/>
 
 </div>
-
 
