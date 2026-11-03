@@ -1,7 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=FFD6E8,FFB6D5,F8A5C8&text=Rutvi%20Landge&fontColor=7A1F4B&fontSize=52&fontAlignY=40&desc=Full%20Stack%20Developer&descSize=20&descAlignY=62" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=FFD6E8,FFB6D5,F8A5C8&text=Rutvi%20Landge&fontColor=7A1F4B&fontSize=52&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descSize=18&descAlignY=58" width="100%"/>
 
+<div align="center">
+  <img src="/pfp.png" width="170" alt="Rutvi Landge"/>
+</div>
 
 <img src="/pfp.png" width="170" alt="Rutvi Landge"/>
 
@@ -21,13 +24,9 @@
 ---
 
 ## About
+Hi! I'm **Rutvi Landge**, a Computer Engineering undergraduate and aspiring **Full Stack Developer** passionate about building modern web applications and AI-powered solutions.
 
-I am a Full Stack Computer Engineering student who builds AI-powered web applications, from the interface to the backend and database.
-
-- Focus areas: LLMs, RAG, AI agents and vector search
-- Currently building a series of projects, listed below
-- Solving problems on LeetCode and strengthening my DSA
-
+I enjoy working across the entire development lifecycle — from designing responsive user interfaces to developing backend services, integrating databases, and building intelligent features using AI and LLM technologies.
 ---
 
 ## Skills
@@ -224,6 +223,13 @@ Explore my repositories, experiments, and development work.
 <div align="center">
 
 <img src="https://quickchart.io/chart?bkg=%23FFF0F6&w=500&h=420&c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Frontend%22%2C%22Backend%22%2C%22Databases%22%2C%22AI%20%2F%20RAG%22%2C%22DSA%22%2C%22Auth%20%26%20Security%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B80%2C75%2C75%2C78%2C72%2C70%5D%2C%22backgroundColor%22%3A%22rgba%28248%2C165%2C200%2C0.45%29%22%2C%22borderColor%22%3A%22%23D6336C%22%2C%22pointBackgroundColor%22%3A%22%23D6336C%22%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Skill%20Radar%22%2C%22fontColor%22%3A%22%23C2255C%22%2C%22fontSize%22%3A18%7D%2C%22scale%22%3A%7B%22ticks%22%3A%7B%22display%22%3Afalse%2C%22min%22%3A0%2C%22max%22%3A100%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22%23F3C6DA%22%7D%2C%22angleLines%22%3A%7B%22color%22%3A%22%23F3C6DA%22%7D%2C%22pointLabels%22%3A%7B%22fontColor%22%3A%22%237B3F5C%22%2C%22fontSize%22%3A14%7D%7D%7D%7D" alt="Skill Radar" width="480"/>
+
+##  Repository Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutvilandge&layout=compact&langs_count=8&bg_color=FFF0F6&title_color=C2255C&text_color=7B3F5C&hide_border=true"
+       alt="Rutvi's GitHub Repository Languages" />
+</div>
 
 <img src="https://streak-stats.demolab.com?user=rutvilandge&background=FFF0F6&border=F8A5C8&ring=F06595&fire=F06595&currStreakNum=7B3F5C&sideNums=7B3F5C&currStreakLabel=C2255C&sideLabels=7B3F5C&dates=7B3F5C&stroke=F8A5C8&hide_border=false" alt="Contribution Streak" width="90%"/>
 
