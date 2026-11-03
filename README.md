@@ -23,7 +23,7 @@
 
 ---
 
-## About Me
+## About 
 
 Hi! I'm Rutvi Landge, a Computer Engineering undergraduate and aspiring Full Stack Developer passionate about building modern, scalable web applications and AI-powered solutions.
 
