@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=FFD6E8,FFB6D5,F8A5C8&text=Rutvi%20Landge&fontColor=7A1F4B&fontSize=52&fontAlignY=40&desc=Full%20Stack%20Computer%20Engineering%20Student&descSize=20&descAlignY=62" width="100%"/>
 
-<img src="./pfp.png" width="170" alt="Rutvi Landge"/>
+<img src=""C:\Users\Rutvi\Downloads\pfp.png"" width="170" alt="Rutvi Landge"/>
 
 <br/><br/>
 
@@ -88,17 +88,7 @@ I am a Full Stack Computer Engineering student who builds AI-powered web applica
 
 ## Featured Projects
 
-All projects are still in progress.
 
-<table>
-<tr><td width="50%" valign="top"><h3><a href="https://github.com/rutvilandge/echonote">EchoNote</a></h3><p>AI meeting intelligence platform. Records meetings, generates summaries and action items, and lets you chat with past meetings using RAG search.</p><p><img src="https://img.shields.io/github/languages/top/rutvilandge/echonote?style=flat-square&label=Language&labelColor=F06595&color=F8BBD0" alt="language"/> <img src="https://img.shields.io/badge/Status-In_progress-F8BBD0?style=flat-square&labelColor=F06595" alt="status"/></p></td><td width="50%" valign="top"><h3><a href="https://github.com/rutvilandge/medintel-ai">MedIntel AI</a></h3><p>Full-stack AI healthcare management system with patient records, medical report analysis, disease prediction and an intelligent medical assistant.</p><p><img src="https://img.shields.io/github/languages/top/rutvilandge/medintel-ai?style=flat-square&label=Language&labelColor=F06595&color=F8BBD0" alt="language"/> <img src="https://img.shields.io/badge/Status-In_progress-F8BBD0?style=flat-square&labelColor=F06595" alt="status"/></p></td></tr>
-<tr><td width="50%" valign="top"><h3><a href="https://github.com/rutvilandge/codexa">Codexa</a></h3><p>AI-powered cloud coding workspace with an in-browser editor, project management, AI coding assistance and authentication.</p><p><img src="https://img.shields.io/github/languages/top/rutvilandge/codexa?style=flat-square&label=Language&labelColor=F06595&color=F8BBD0" alt="language"/> <img src="https://img.shields.io/badge/Status-In_progress-F8BBD0?style=flat-square&labelColor=F06595" alt="status"/></p></td><td width="50%" valign="top"><h3><a href="https://github.com/rutvilandge/VeriLens">VeriLens</a></h3><p>Multimodal AI authenticity and evidence platform that analyzes text, images and sources and produces explainable insights.</p><p><img src="https://img.shields.io/github/languages/top/rutvilandge/VeriLens?style=flat-square&label=Language&labelColor=F06595&color=F8BBD0" alt="language"/> <img src="https://img.shields.io/badge/Status-In_progress-F8BBD0?style=flat-square&labelColor=F06595" alt="status"/></p></td></tr>
-<tr><td width="50%" valign="top"><h3><a href="https://github.com/rutvilandge/nexus">Nexus</a></h3><p>Voice-enabled personal AI assistant that uses agentic orchestration to turn natural language commands into automated workflows.</p><p><img src="https://img.shields.io/github/languages/top/rutvilandge/nexus?style=flat-square&label=Language&labelColor=F06595&color=F8BBD0" alt="language"/> <img src="https://img.shields.io/badge/Status-In_progress-F8BBD0?style=flat-square&labelColor=F06595" alt="status"/></p></td><td width="50%" valign="top"><h3><a href="https://github.com/rutvilandge/Quantara">Quantara</a></h3><p>Project in progress.</p><p><img src="https://img.shields.io/github/languages/top/rutvilandge/Quantara?style=flat-square&label=Language&labelColor=F06595&color=F8BBD0" alt="language"/> <img src="https://img.shields.io/badge/Status-In_progress-F8BBD0?style=flat-square&labelColor=F06595" alt="status"/></p></td></tr>
-<tr><td width="50%" valign="top"><h3><a href="https://github.com/rutvilandge/GitNova">GitNova</a></h3><p>Project in progress.</p><p><img src="https://img.shields.io/github/languages/top/rutvilandge/GitNova?style=flat-square&label=Language&labelColor=F06595&color=F8BBD0" alt="language"/> <img src="https://img.shields.io/badge/Status-In_progress-F8BBD0?style=flat-square&labelColor=F06595" alt="status"/></p></td><td width="50%" valign="top"><h3><a href="https://github.com/rutvilandge/SYNAPTRA">SYNAPTRA</a></h3><p>Project in progress.</p><p><img src="https://img.shields.io/github/languages/top/rutvilandge/SYNAPTRA?style=flat-square&label=Language&labelColor=F06595&color=F8BBD0" alt="language"/> <img src="https://img.shields.io/badge/Status-In_progress-F8BBD0?style=flat-square&labelColor=F06595" alt="status"/></p></td></tr>
-<tr><td width="50%" valign="top"><h3><a href="https://github.com/rutvilandge/AETHERIS">AETHERIS</a></h3><p>Project in progress.</p><p><img src="https://img.shields.io/github/languages/top/rutvilandge/AETHERIS?style=flat-square&label=Language&labelColor=F06595&color=F8BBD0" alt="language"/> <img src="https://img.shields.io/badge/Status-In_progress-F8BBD0?style=flat-square&labelColor=F06595" alt="status"/></p></td><td width="50%"></td></tr>
-</table>
-
----
 
 ## GitHub Stats
 
