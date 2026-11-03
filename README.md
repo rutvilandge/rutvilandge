@@ -1,12 +1,8 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=FFD6E8,FFB6D5,F8A5C8&text=Rutvi%20Landge&fontColor=7A1F4B&fontSize=52&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descSize=18&descAlignY=58" width="100%"/>
 
 <div align="center">
   <img src="/pfp.png" width="170" alt="Rutvi Landge"/>
 </div>
-
-<img src="/pfp.png" width="170" alt="Rutvi Landge"/>
 
 <br/><br/>
 
