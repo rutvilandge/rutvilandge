@@ -104,7 +104,7 @@ I continuously strengthen my programming fundamentals, particularly Data Structu
 
 <h3>EchoNote</h3>
 
-AI-powered meeting assistant designed to help capture, organize, and retrieve meeting knowledge.
+AI-powered meeting intelligence platform. Records meetings, generates AI summaries and action items with Groq, and lets you chat with past meetings via RAG search. Built with Next.js 14, TypeScript, Prisma, PostgreSQL (pgvector), NextAuth, and Daily.co.
 
 <a href="https://github.com/rutvilandge/echonote">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-F8BBD0?style=for-the-badge&logo=github&logoColor=7B3655" />
@@ -114,8 +114,7 @@ AI-powered meeting assistant designed to help capture, organize, and retrieve me
 <td width="50%" valign="top">
 
 <h3> MedIntel AI</h3>
-
-An AI-powered healthcare intelligence project focused on applying artificial intelligence to healthcare-related challenges.
+Full-stack AI healthcare management system featuring patient records, AI-powered medical report analysis, disease prediction, secure authentication, and an intelligent medical assistant
 
 <a href="https://github.com/rutvilandge/medintel-ai">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-F8BBD0?style=for-the-badge&logo=github&logoColor=7B3655" />
@@ -128,7 +127,7 @@ An AI-powered healthcare intelligence project focused on applying artificial int
 
 <h3> CODEXA</h3>
 
-AI-powered cloud coding workspace featuring project management, an integrated code editor, terminal, Git workflows, and an AI coding assistant.
+AI-powered cloud coding workspace designed to provide a modern in-browser development environment with project management, file and code editing, AI-powered coding assistance, authentication, database-backed workspaces, and collaboration features.
 
 <a href="https://github.com/rutvilandge/codexa">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-F8BBD0?style=for-the-badge&logo=github&logoColor=7B3655" />
@@ -139,7 +138,7 @@ AI-powered cloud coding workspace featuring project management, an integrated co
 
 <h3> VeriLens</h3>
 
-A full-stack verification platform built with a structured backend and modern web technologies.
+Multimodal AI Authenticity & Evidence Intelligence Platform | Analyze text, images & sources, extract investigative signals, connect evidence, run AI/ML pipelines, generate explainable insights, and trace the complete story from evidence to intelligence.
 
 <a href="https://github.com/rutvilandge/VeriLens">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-F8BBD0?style=for-the-badge&logo=github&logoColor=7B3655" />
@@ -152,7 +151,8 @@ A full-stack verification platform built with a structured backend and modern we
 
 <h3>NEXUS</h3>
 
-Voice-enabled personal AI assistant combining conversational AI, personal context, and agentic workflow orchestration.
+Voice-enabled personal AI assistant powered by agentic orchestration, designed to understand natural language commands, automate workflows, and simplify everyday productivity through intelligent task execution, conversational AI, persistent memory, document intelligence, GitHub integration, and a unified workspace
+
 
 <a href="https://github.com/rutvilandge/nexus">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-F8BBD0?style=for-the-badge&logo=github&logoColor=7B3655" />
@@ -163,7 +163,7 @@ Voice-enabled personal AI assistant combining conversational AI, personal contex
 
 <h3> QUANTARA</h3>
 
-Conversational AI analytics platform that transforms natural-language questions into SQL queries, dashboards, and data insights.
+AI-powered analytics platform featuring natural language-to-SQL, interactive dashboards, machine learning insights, anomaly detection, and forecasting. Built with React, Spring Boot, Python, Ollama, and PostgreSQL
 
 <a href="https://github.com/rutvilandge/Quantara">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-F8BBD0?style=for-the-badge&logo=github&logoColor=7B3655" />
@@ -176,7 +176,8 @@ Conversational AI analytics platform that transforms natural-language questions 
 
 <h3> GitNova</h3>
 
-A software development project exploring GitHub-focused tooling and developer workflows.
+AI-powered GitHub intelligence platform that streamlines code reviews, analyses repositories, maps code dependencies, and delivers actionable developer insights through repository-aware AI and intelligent automation.
+
 
 <a href="https://github.com/rutvilandge/GitNova">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-F8BBD0?style=for-the-badge&logo=github&logoColor=7B3655" />
@@ -186,8 +187,7 @@ A software development project exploring GitHub-focused tooling and developer wo
 <td width="50%" valign="top">
 
 <h3>SYNAPTRA</h3>
-
-An AI-focused project exploring knowledge retrieval and intelligent information access.
+AI-powered Knowledge Retrieval & Trust Intelligence Platform, focused on advanced RAG, hybrid search, reranking, grounded answers and citation verification
 
 <a href="https://github.com/rutvilandge/SYNAPTRA">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-F8BBD0?style=for-the-badge&logo=github&logoColor=7B3655" />
@@ -199,8 +199,7 @@ An AI-focused project exploring knowledge retrieval and intelligent information 
 <td width="50%" valign="top">
 
 <h3>AETHERIS</h3>
-
-An AI-focused project exploring video intelligence and computer vision applications.
+AI-powered Video Intelligence & Visual Surveillance Platform, focused on YOLO object detection, ByteTrack tracking, event detection, natural-language video search and AI-generated video summaries.
 
 <a href="https://github.com/rutvilandge/AETHERIS">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-F8BBD0?style=for-the-badge&logo=github&logoColor=7B3655" />
