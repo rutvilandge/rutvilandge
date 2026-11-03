@@ -1,11 +1,16 @@
 
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=FFD6E8,FFB6D5,F8A5C8&text=Rutvi%20Landge&fontColor=7A1F4B&fontSize=52&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=58" width="100%" />
 
   <br/>
 
   <img src="./pfp.png" width="170" alt="Rutvi Landge" />
 
-</div>
+  <h3>Hi, I'm Rutvi Landge! 👋</h3>
+  <p>Computer Engineering Student | Full Stack Developer | AI & ML Enthusiast</p>
 
+</div>
 <br/><br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-FFC1DA?style=for-the-badge&logo=github&logoColor=7A1F4B)](https://github.com/rutvilandge)
