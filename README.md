@@ -1,32 +1,35 @@
 div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=FFD6E8,FFB6D5,F8A5C8&text=Hi,%20I'm%20Rutvi%20Landge%20%F0%9F%8C%B8&fontColor=7A1F4B&fontSize=42&fontAlignY=38&desc=Full%20Stack%20Computer%20Engineering%20Student&descSize=20&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=FFD6E8,FFB6D5,F8A5C8&text=Rutvi%20Landge&fontColor=7A1F4B&fontSize=52&fontAlignY=40&desc=Full%20Stack%20Computer%20Engineering%20Student&descSize=20&descAlignY=62" width="100%"/>
 
-<br/>
+<img src="https://github.com/rutvilandge.png?size=200" width="150" alt="Rutvi Landge"/>
 
-<img src="./assets/pfp.png" width="170" alt="Rutvi Landge"/>
-
-<br/>
+<br/><br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-FFC1DA?style=for-the-badge&logo=github&logoColor=7A1F4B)](https://github.com/rutvilandge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFC1DA?style=for-the-badge&logo=linkedin&logoColor=7A1F4B)](https://www.linkedin.com/in/rutvi-landge-9988413b0/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFC1DA?style=for-the-badge&logo=leetcode&logoColor=7A1F4B)](https://leetcode.com/u/rutvil/)
 [![Email](https://img.shields.io/badge/Email-FFC1DA?style=for-the-badge&logo=gmail&logoColor=7A1F4B)](mailto:rutvilandge@gmail.com)
 
+<br/>
+
+[About](#about) &nbsp;|&nbsp; [Skills](#skills) &nbsp;|&nbsp; [Projects](#featured-projects) &nbsp;|&nbsp; [GitHub Stats](#github-stats) &nbsp;|&nbsp; [Achievements](#certifications-and-achievements) &nbsp;|&nbsp; [Contact](#connect-with-me)
+
 </div>
 
 ---
 
-## 🌷 About Me
+## About
 
-- 💻 Full Stack Computer Engineering student
-- 🧠 Interested in LLMs, RAG, AI Agents and vector search
-- 🌱 Currently building a series of projects (see below!)
-- 🧩 Solving problems on LeetCode and strengthening my DSA
+I am a Full Stack Computer Engineering student who builds AI-powered web applications, from the interface to the backend and database.
+
+- Focus areas: LLMs, RAG, AI agents and vector search
+- Currently building a series of projects, listed below
+- Solving problems on LeetCode and strengthening my DSA
 
 ---
 
-## 🎀 Skills
+## Skills
 
 **Languages**
 
@@ -79,64 +82,73 @@ div align="center">
 ![Postman](https://img.shields.io/badge/Postman-FCE4EC?style=flat-square&logo=postman&logoColor=7B3F5C)
 ![Vercel](https://img.shields.io/badge/Vercel-FCE4EC?style=flat-square&logo=vercel&logoColor=7B3F5C)
 
-**CS Fundamentals:** DSA • OOP • DBMS • OS • CN
+**CS Fundamentals:** DSA &bull; OOP &bull; DBMS &bull; OS &bull; CN
 
 ---
 
-## 🌸 Featured Projects
+## Featured Projects
 
-> 🌱 All projects are still in progress.
-
-<table>
-<tr><td width="50%" align="center"><a href="https://github.com/rutvilandge/echonote"><img src="./assets/echonote.svg" alt="echonote" width="100%"/></a></td><td width="50%" align="center"><a href="https://github.com/rutvilandge/medintel-ai"><img src="./assets/medintel-ai.svg" alt="medintel-ai" width="100%"/></a></td></tr>
-<tr><td width="50%" align="center"><a href="https://github.com/rutvilandge/codexa"><img src="./assets/codexa.svg" alt="codexa" width="100%"/></a></td><td width="50%" align="center"><a href="https://github.com/rutvilandge/VeriLens"><img src="./assets/VeriLens.svg" alt="VeriLens" width="100%"/></a></td></tr>
-<tr><td width="50%" align="center"><a href="https://github.com/rutvilandge/nexus"><img src="./assets/nexus.svg" alt="nexus" width="100%"/></a></td><td width="50%" align="center"><a href="https://github.com/rutvilandge/Quantara"><img src="./assets/Quantara.svg" alt="Quantara" width="100%"/></a></td></tr>
-<tr><td width="50%" align="center"><a href="https://github.com/rutvilandge/GitNova"><img src="./assets/GitNova.svg" alt="GitNova" width="100%"/></a></td><td width="50%" align="center"><a href="https://github.com/rutvilandge/SYNAPTRA"><img src="./assets/SYNAPTRA.svg" alt="SYNAPTRA" width="100%"/></a></td></tr>
-<tr><td width="50%" align="center"><a href="https://github.com/rutvilandge/AETHERIS"><img src="./assets/AETHERIS.svg" alt="AETHERIS" width="100%"/></a></td><td width="50%"></td></tr>
-</table>
-
----
-
-## 📊 Skills & GitHub
+All projects are still in progress.
 
 <div align="center">
 <table>
-<tr>
-<td align="center" width="50%"><img src="./assets/skill-radar.svg" alt="Skill Radar" width="100%"/></td>
-<td align="center" width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutvilandge&layout=donut&hide_border=true&bg_color=FFF0F6&title_color=C2255C&text_color=7B3F5C&title=Repository%20Languages" alt="Repository Languages" width="100%"/></td>
-</tr>
+<tr><td width="50%" align="center"><a href="https://github.com/rutvilandge/echonote"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rutvilandge&repo=echonote&bg_color=FFF0F6&title_color=C2255C&text_color=7B3F5C&icon_color=F06595&border_color=F8A5C8&border_radius=16" alt="echonote" width="100%"/></a></td><td width="50%" align="center"><a href="https://github.com/rutvilandge/medintel-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rutvilandge&repo=medintel-ai&bg_color=FFF0F6&title_color=C2255C&text_color=7B3F5C&icon_color=F06595&border_color=F8A5C8&border_radius=16" alt="medintel-ai" width="100%"/></a></td></tr>
+<tr><td width="50%" align="center"><a href="https://github.com/rutvilandge/codexa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rutvilandge&repo=codexa&bg_color=FFF0F6&title_color=C2255C&text_color=7B3F5C&icon_color=F06595&border_color=F8A5C8&border_radius=16" alt="codexa" width="100%"/></a></td><td width="50%" align="center"><a href="https://github.com/rutvilandge/VeriLens"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rutvilandge&repo=VeriLens&bg_color=FFF0F6&title_color=C2255C&text_color=7B3F5C&icon_color=F06595&border_color=F8A5C8&border_radius=16" alt="VeriLens" width="100%"/></a></td></tr>
+<tr><td width="50%" align="center"><a href="https://github.com/rutvilandge/nexus"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rutvilandge&repo=nexus&bg_color=FFF0F6&title_color=C2255C&text_color=7B3F5C&icon_color=F06595&border_color=F8A5C8&border_radius=16" alt="nexus" width="100%"/></a></td><td width="50%" align="center"><a href="https://github.com/rutvilandge/Quantara"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rutvilandge&repo=Quantara&bg_color=FFF0F6&title_color=C2255C&text_color=7B3F5C&icon_color=F06595&border_color=F8A5C8&border_radius=16" alt="Quantara" width="100%"/></a></td></tr>
+<tr><td width="50%" align="center"><a href="https://github.com/rutvilandge/GitNova"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rutvilandge&repo=GitNova&bg_color=FFF0F6&title_color=C2255C&text_color=7B3F5C&icon_color=F06595&border_color=F8A5C8&border_radius=16" alt="GitNova" width="100%"/></a></td><td width="50%" align="center"><a href="https://github.com/rutvilandge/SYNAPTRA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rutvilandge&repo=SYNAPTRA&bg_color=FFF0F6&title_color=C2255C&text_color=7B3F5C&icon_color=F06595&border_color=F8A5C8&border_radius=16" alt="SYNAPTRA" width="100%"/></a></td></tr>
+<tr><td width="50%" align="center"><a href="https://github.com/rutvilandge/AETHERIS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rutvilandge&repo=AETHERIS&bg_color=FFF0F6&title_color=C2255C&text_color=7B3F5C&icon_color=F06595&border_color=F8A5C8&border_radius=16" alt="AETHERIS" width="100%"/></a></td><td width="50%"></td></tr>
 </table>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rutvilandge&show_icons=true&hide_border=true&bg_color=FFF0F6&title_color=C2255C&icon_color=F06595&text_color=7B3F5C&count_private=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rutvilandge&bg_color=FFF0F6&color=C2255C&line=F06595&point=7B3F5C&area=true&area_color=F8BBD0&hide_border=true&title=Contribution%20Graph" width="100%"/>
 </div>
 
 ---
 
-## 🏆 Certifications & Achievements
+## GitHub Stats
 
-- 🥈 Secured 2nd Rank in Third Year Computer Engineering
-- 📄 Published a research paper in IJRASET on AI-based visual defect detection in automotive manufacturing
-- 🧩 Solved 200+ LeetCode problems
-- 🎓 Infosys – Data Analysis with Python
-- 🎓 freeCodeCamp – Machine Learning
-- 🎓 JPMorgan Chase – Software Engineering Job Simulation
-- 🎓 IBM – Data Fundamentals
-- 🎓 TCS – AI Foundation
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%"><img src="https://quickchart.io/chart?bkg=%23FFF0F6&w=500&h=420&c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Frontend%22%2C%22Backend%22%2C%22Databases%22%2C%22AI%20%2F%20RAG%22%2C%22DSA%22%2C%22Auth%20%26%20Security%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B80%2C75%2C75%2C78%2C72%2C70%5D%2C%22backgroundColor%22%3A%22rgba%28248%2C165%2C200%2C0.45%29%22%2C%22borderColor%22%3A%22%23D6336C%22%2C%22pointBackgroundColor%22%3A%22%23D6336C%22%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Skill%20Radar%22%2C%22fontColor%22%3A%22%23C2255C%22%2C%22fontSize%22%3A18%7D%2C%22scale%22%3A%7B%22ticks%22%3A%7B%22display%22%3Afalse%2C%22min%22%3A0%2C%22max%22%3A100%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22%23F3C6DA%22%7D%2C%22angleLines%22%3A%7B%22color%22%3A%22%23F3C6DA%22%7D%2C%22pointLabels%22%3A%7B%22fontColor%22%3A%22%237B3F5C%22%2C%22fontSize%22%3A14%7D%7D%7D%7D" alt="Skill Radar" width="100%"/></td>
+<td align="center" width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutvilandge&layout=donut&hide_border=true&bg_color=FFF0F6&title_color=C2255C&text_color=7B3F5C&title=Repository%20Languages" alt="Repository Languages" width="100%"/></td>
+</tr>
+</table>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rutvilandge&show_icons=true&hide_border=true&bg_color=FFF0F6&title_color=C2255C&icon_color=F06595&text_color=7B3F5C&count_private=true" alt="GitHub Stats"/>
+<img height="180" src="https://streak-stats.demolab.com?user=rutvilandge&background=FFF0F6&border=F8A5C8&ring=F06595&fire=F06595&currStreakNum=7B3F5C&sideNums=7B3F5C&currStreakLabel=C2255C&sideLabels=7B3F5C&dates=7B3F5C&stroke=F8A5C8&hide_border=false" alt="Contribution Streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rutvilandge&bg_color=FFF0F6&color=C2255C&line=F06595&point=7B3F5C&area=true&area_color=F8BBD0&hide_border=true&title=Contribution%20Graph" width="100%" alt="Contribution Graph"/>
+</div>
 
 ---
 
-## 🤝 Connect With Me
+## Certifications and Achievements
 
-- 🐙 GitHub: [github.com/rutvilandge](https://github.com/rutvilandge)
-- 💼 LinkedIn: [Rutvi Landge](https://www.linkedin.com/in/rutvi-landge-9988413b0/)
-- 📧 Email: [rutvilandge@gmail.com](mailto:rutvilandge@gmail.com)
-- 🧠 LeetCode: [leetcode.com/u/rutvil](https://leetcode.com/u/rutvil/)
+**Achievements**
+
+- Secured 2nd Rank in Third Year Computer Engineering
+- Published a research paper in IJRASET on AI-based visual defect detection in automotive manufacturing
+- Solved 200+ LeetCode problems
+
+**Certifications**
+
+- Infosys: Data Analysis with Python
+- freeCodeCamp: Machine Learning
+- JPMorgan Chase: Software Engineering Job Simulation
+- IBM: Data Fundamentals
+- TCS: AI Foundation
+
+---
+
+## Connect With Me
+
+- GitHub: [github.com/rutvilandge](https://github.com/rutvilandge)
+- LinkedIn: [Rutvi Landge](https://www.linkedin.com/in/rutvi-landge-9988413b0/)
+- Email: [rutvilandge@gmail.com](mailto:rutvilandge@gmail.com)
+- LeetCode: [leetcode.com/u/rutvil](https://leetcode.com/u/rutvil/)
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=FFD6E8,FFB6D5,F8A5C8&section=footer" width="100%"/>
 
 </div>
+
 
