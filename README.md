@@ -116,6 +116,7 @@ AI-powered meeting intelligence platform. Records meetings, generates AI summari
 <h3> MedIntel AI</h3>
 Full-stack AI healthcare management system featuring patient records, AI-powered medical report analysis, disease prediction, secure authentication, and an intelligent medical assistant
 
+
 <a href="https://github.com/rutvilandge/medintel-ai">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-F8BBD0?style=for-the-badge&logo=github&logoColor=7B3655" />
 </a>
@@ -200,6 +201,7 @@ AI-powered Knowledge Retrieval & Trust Intelligence Platform, focused on advance
 
 <h3>AETHERIS</h3>
 AI-powered Video Intelligence & Visual Surveillance Platform, focused on YOLO object detection, ByteTrack tracking, event detection, natural-language video search and AI-generated video summaries.
+
 
 <a href="https://github.com/rutvilandge/AETHERIS">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-F8BBD0?style=for-the-badge&logo=github&logoColor=7B3655" />
