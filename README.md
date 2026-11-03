@@ -1,6 +1,6 @@
 <div align="center">
 
-"<img width="1086" height="1448" alt="WhatsApp Image 2026-11-03 at 10 20 38" src="https://github.com/user-attachments/assets/684af42b-cafb-4f27-afee-c7a9d8f56c6a" />
+<img width="1086" height="1448" alt="WhatsApp Image 2026-11-03 at 10 20 38" src="https://github.com/user-attachments/assets/684af42b-cafb-4f27-afee-c7a9d8f56c6a" />
 
 
 #  Hi, I'm Rutvi Landge!
