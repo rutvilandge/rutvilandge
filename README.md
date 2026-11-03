@@ -239,14 +239,13 @@ Explore my repositories, experiments, and development work.
 </div>
 
 ---
+## Certifications and Achievements
 
 <h2 align="center">
   <img src="https://img.shields.io/badge/🏆_Achievements-FF69B4?style=for-the-badge&labelColor=FFC0CB" />
 </h2>
 
 <div align="center">
-  
-## Certifications and Achievements
   
 | 🏆 Achievements |
 |:---|
