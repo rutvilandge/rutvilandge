@@ -89,6 +89,134 @@ I am a Full Stack Computer Engineering student who builds AI-powered web applica
 ## Featured Projects
 
 
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>EchoNote</h3>
+
+AI-powered meeting assistant designed to help capture, organize, and retrieve meeting knowledge.
+
+<a href="https://github.com/rutvilandge/echonote">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-F8BBD0?style=for-the-badge&logo=github&logoColor=7B3655" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3> MedIntel AI</h3>
+
+An AI-powered healthcare intelligence project focused on applying artificial intelligence to healthcare-related challenges.
+
+<a href="https://github.com/rutvilandge/medintel-ai">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-F8BBD0?style=for-the-badge&logo=github&logoColor=7B3655" />
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3> CODEXA</h3>
+
+AI-powered cloud coding workspace featuring project management, an integrated code editor, terminal, Git workflows, and an AI coding assistant.
+
+<a href="https://github.com/rutvilandge/codexa">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-F8BBD0?style=for-the-badge&logo=github&logoColor=7B3655" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3> VeriLens</h3>
+
+A full-stack verification platform built with a structured backend and modern web technologies.
+
+<a href="https://github.com/rutvilandge/VeriLens">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-F8BBD0?style=for-the-badge&logo=github&logoColor=7B3655" />
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>NEXUS</h3>
+
+Voice-enabled personal AI assistant combining conversational AI, personal context, and agentic workflow orchestration.
+
+<a href="https://github.com/rutvilandge/nexus">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-F8BBD0?style=for-the-badge&logo=github&logoColor=7B3655" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3> QUANTARA</h3>
+
+Conversational AI analytics platform that transforms natural-language questions into SQL queries, dashboards, and data insights.
+
+<a href="https://github.com/rutvilandge/Quantara">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-F8BBD0?style=for-the-badge&logo=github&logoColor=7B3655" />
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3> GitNova</h3>
+
+A software development project exploring GitHub-focused tooling and developer workflows.
+
+<a href="https://github.com/rutvilandge/GitNova">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-F8BBD0?style=for-the-badge&logo=github&logoColor=7B3655" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>SYNAPTRA</h3>
+
+An AI-focused project exploring knowledge retrieval and intelligent information access.
+
+<a href="https://github.com/rutvilandge/SYNAPTRA">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-F8BBD0?style=for-the-badge&logo=github&logoColor=7B3655" />
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>AETHERIS</h3>
+
+An AI-focused project exploring video intelligence and computer vision applications.
+
+<a href="https://github.com/rutvilandge/AETHERIS">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-F8BBD0?style=for-the-badge&logo=github&logoColor=7B3655" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>💗 More on GitHub</h3>
+
+Explore my repositories, experiments, and development work.
+
+<a href="https://github.com/rutvilandge?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20ALL-F3D5E5?style=for-the-badge&logo=github&logoColor=7B3655" />
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+
 
 ## GitHub Stats
 
