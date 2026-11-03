@@ -91,8 +91,6 @@ I continuously strengthen my programming fundamentals, particularly Data Structu
 ![Postman](https://img.shields.io/badge/Postman-FCE4EC?style=flat-square&logo=postman&logoColor=7B3F5C)
 ![Vercel](https://img.shields.io/badge/Vercel-FCE4EC?style=flat-square&logo=vercel&logoColor=7B3F5C)
 
-**CS Fundamentals:** DSA &bull; OOP &bull; DBMS &bull; OS &bull; CN
-
 ---
 
 ## Featured Projects
@@ -226,7 +224,6 @@ Explore my repositories, experiments, and development work.
 </div>
 
 
-
 ## GitHub Stats
 
 <div align="center">
@@ -243,21 +240,35 @@ Explore my repositories, experiments, and development work.
 
 ---
 
+<h2 align="center">
+  <img src="https://img.shields.io/badge/🏆_Achievements-FF69B4?style=for-the-badge&labelColor=FFC0CB" />
+</h2>
+
+<div align="center">
+  
 ## Certifications and Achievements
+  
+| 🏆 Achievements |
+|:---|
+| 🥈 Secured 2nd Rank in Third Year Computer Engineering |
+| 📄 Published a research paper in IJRASET on AI-based visual defect detection in automotive manufacturing |
+| 💻 Solved 200+ LeetCode problems |
 
-**Achievements**
+<br/>
 
-- Secured 2nd Rank in Third Year Computer Engineering
-- Published a research paper in IJRASET on AI-based visual defect detection in automotive manufacturing
-- Solved 200+ LeetCode problems
+<h2>
+  <img src="https://img.shields.io/badge/🎓_Certifications-FF69B4?style=for-the-badge&labelColor=FFC0CB" />
+</h2>
 
-**Certifications**
+| Certification | Issuing Organization |
+|:---|:---:|
+| Data Analysis with Python | Infosys |
+| Machine Learning | freeCodeCamp |
+| Software Engineering Job Simulation | JPMorgan Chase |
+| Data Fundamentals | IBM |
+| AI Foundation | TCS |
 
-- Infosys: Data Analysis with Python
-- freeCodeCamp: Machine Learning
-- JPMorgan Chase: Software Engineering Job Simulation
-- IBM: Data Fundamentals
-- TCS: AI Foundation
+</div>
 
 ---
 
