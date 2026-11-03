@@ -24,9 +24,19 @@
 ---
 
 ## About
-Hi! I'm **Rutvi Landge**, a Computer Engineering undergraduate and aspiring **Full Stack Developer** passionate about building modern web applications and AI-powered solutions.
+## About Me
 
-I enjoy working across the entire development lifecycle — from designing responsive user interfaces to developing backend services, integrating databases, and building intelligent features using AI and LLM technologies.
+Hi! I'm Rutvi Landge, a Computer Engineering undergraduate and aspiring Full Stack Developer passionate about building modern, scalable web applications and AI-powered solutions.
+
+I enjoy working across the entire software development lifecycle — transforming ideas into functional applications by designing responsive user interfaces, developing backend services, integrating databases, and building intelligent features using Artificial Intelligence and Large Language Models (LLMs).
+
+My technical interests include Full Stack Developmentwith React.js, Next.js, TypeScript, Node.js, and Express.js; Backend Engineering with Java, Spring Boot, and RESTful APIs; and Database Management using PostgreSQL, MySQL, MongoDB, Supabase, and Neon.
+
+I'm also interested in Artificial Intelligence and Machine Learning, particularly LLMs, Retrieval-Augmented Generation (RAG), AI agents, Gemini API, Ollama, and vector search. Alongside development, I focus on writing secure applications through authentication, authorization, JWT, and OAuth 2.0.
+
+I continuously strengthen my programming fundamentals, particularly Data Structures and Algorithms using C++, through consistent problem-solving on LeetCode. I enjoy learning new technologies, experimenting with ideas, and building practical solutions to real-world engineering problems.
+
+
 ---
 
 ## Skills
