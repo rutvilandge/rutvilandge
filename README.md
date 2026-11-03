@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=FFD6E8,FFB6D5,F8A5C8&text=Rutvi%20Landge&fontColor=7A1F4B&fontSize=52&fontAlignY=40&desc=Full%20Stack%20Computer%20Engineering%20Student&descSize=20&descAlignY=62" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=FFD6E8,FFB6D5,F8A5C8&text=Rutvi%20Landge&fontColor=7A1F4B&fontSize=52&fontAlignY=40&desc=Full%20Stack%20Developer&descSize=20&descAlignY=62" width="100%"/>
+
 
 <img src="/pfp.png" width="170" alt="Rutvi Landge"/>
 
