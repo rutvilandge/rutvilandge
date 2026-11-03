@@ -5,7 +5,7 @@
 
   <br/>
 
-  <img src="./pfp.png" width="210" alt="Rutvi Landge" />
+  <img src="./pfp.png" width="270" alt="Rutvi Landge" />
 
 </div>
 <br/><br/>
