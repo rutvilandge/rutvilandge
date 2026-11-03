@@ -2,10 +2,10 @@
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/684af42b-cafb-4f27-afee-c7a9d8f56c6a"
-       width="1086"
-       height="1448"
+       width="180"
        alt="Rutvi's Avatar" />
 </div>
+
 #  Hi, I'm Rutvi Landge!
 
 ### Computer Engineering Student | Full-Stack Developer | AI/ML Enthusiast
