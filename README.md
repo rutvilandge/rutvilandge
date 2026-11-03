@@ -7,9 +7,6 @@
 
   <img src="./pfp.png" width="170" alt="Rutvi Landge" />
 
-  <h3>Hi, I'm Rutvi Landge! 👋</h3>
-  <p>Computer Engineering Student | Full Stack Developer | AI & ML Enthusiast</p>
-
 </div>
 <br/><br/>
 
@@ -205,7 +202,7 @@ An AI-focused project exploring video intelligence and computer vision applicati
 </td>
 <td width="50%" valign="top">
 
-<h3>💗 More on GitHub</h3>
+<h3> More on GitHub</h3>
 
 Explore my repositories, experiments, and development work.
 
