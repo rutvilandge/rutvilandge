@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/684af42b-cafb-4f27-afee-c7a9d8f56c6a"
+  <img src="C:\Users\Rutvi\Downloads\PFP.jpg.jpeg"
        width="180"
        alt="Rutvi's Avatar" />
 </div>
@@ -125,17 +125,6 @@ Data Structures & Algorithms · Object-Oriented Programming · DBMS · Operating
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rutvilandge&show_icons=true&hide_border=true&bg_color=FFF7FA&title_color=C06C91&icon_color=D98BAA&text_color=76566A" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutvilandge&layout=compact&hide_border=true&bg_color=FFF7FA&title_color=C06C91&text_color=76566A" height="165" />
-
-<img src="https://streak-stats.demolab.com?user=rutvilandge&hide_border=true&background=FFF7FA&ring=D98BAA&fire=C06C91&currStreakLabel=C06C91&sideLabels=76566A&dates=76566A" height="165" />
-
-</div>
 
 ---
 
